@@ -1,8 +1,8 @@
 This script is small compilation with choices to check for:
-    - Latest blocks -> eth_blockNumber
-    - Current Balance -> eth_getBalance
-    - Getting transaction count -> eth_getTransactionCount
-    - Resolving ENS domain name to wallet address -> with web3.py ENS API library
+- Latest blocks -> eth_blockNumber
+- Current Balance -> eth_getBalance
+- Getting transaction count -> eth_getTransactionCount
+- Resolving ENS domain name to wallet address -> with web3.py ENS API library
 
 With added features to check on Goerli and Sepolia instead of default in mainnet
 
